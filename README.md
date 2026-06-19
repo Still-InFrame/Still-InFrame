@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...building new opportunities and supporting small/ medium businesses to make a better world.
 - 🌱 I’m currently learning ... Git/ GitHub, Python.
 - 💞️ I’m looking to collaborate on ... new development projects.
-- 📫 How to reach me ... www.stillinframe.com
+- 📫 How to reach me ... www.managedmp.com
 
 <!---
 Still-InFrame/Still-InFrame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
